@@ -1,0 +1,13 @@
+.player-row-container{
+    padding-block: 7px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lavender;
+    width: 100%;
+}
+.player-name-wrapper{
+    display: flex;
+}
+.player-id{
+
+}

@@ -1,0 +1,7 @@
+.favorite-list-container{
+    width: 50%;
+}
+.favorite-list-wrapper{
+    height: 450px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,9 @@
+.list-header-container{
+margin-bottom: 20px;
+}
+
+.list-header-wrapper{
+    background-color: orangered;
+    padding: 10px 8px;
+    border-radius: 10px;
+}

@@ -1,0 +1,23 @@
+.header-container{
+    height: 60px;
+    background-color: orangered;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 15px;
+}
+.AlphaBet-label{
+    color: white;
+    font-size: 25px;
+    flex: 6;
+    font-style: italic;
+}
+.color-picker-wrapper{
+    flex: 1;
+}
+.color-picker-container{
+    position:absolute;
+    left:80%;
+    top:70px;
+}

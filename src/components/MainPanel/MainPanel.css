@@ -1,0 +1,17 @@
+.main-panel-container{
+    justify-content: center;
+    gap: 70px;
+    padding-inline: 50px;
+    display: flex;
+}
+.separate-line{
+    background-color: black;
+    width: 4px;
+
+}
+.color-picker-button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: black 1px solid;
+}
